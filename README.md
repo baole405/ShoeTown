@@ -19,4 +19,4 @@ ShoeTown là một website bán giày trực tuyến được xây dựng bằng
 ## 📁 Cấu trúc project:
 - `controller`: các servlet xử lý logic
 - `model`: DTO, DAO, DBUtils
-- `view`: các trang JSP như `
+- `view`: các trang JSP 
